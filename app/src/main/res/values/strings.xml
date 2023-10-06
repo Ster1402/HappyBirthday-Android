@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="partyImageDescription">Birthday party image</string>
+    <string name="titleText">Happy Birhtday to you 🔥🥳</string>
+    <string name="senderName">--- Your friend SterDevs 😎</string>
+    <string name="toastButton">Your message</string>
+    <string name="count">Count</string>
+    <string name="show_tips">Show Tips</string>
+    <string name="counter">Counter</string>
+    <string name="_0">0</string>
+</resources>
